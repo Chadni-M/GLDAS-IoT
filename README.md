@@ -31,12 +31,6 @@ The gas sensor continuously measures gas concentration and sends analog data to 
 ## Outcome
 GLDAS-IoT successfully detects gas leakage and provides timely alerts, demonstrating the effectiveness of IoT-based safety monitoring systems.
 
-## Future Enhancements
-- Mobile or web-based monitoring dashboard  
-- Cloud data logging and analytics  
-- SMS or email alert integration  
-
-
 ## Credits
 This project was a team effort:
 
