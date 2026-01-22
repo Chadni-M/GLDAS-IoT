@@ -35,3 +35,12 @@ GLDAS-IoT successfully detects gas leakage and provides timely alerts, demonstra
 - Mobile or web-based monitoring dashboard  
 - Cloud data logging and analytics  
 - SMS or email alert integration  
+
+
+## Credits
+This project was a team effort:
+
+- Chadni Mandal – Arduino Programming; Hardware design; GitHub Repo
+- Tanjim Subah Alam – IoT integration; Hardware design  
+- Marion Moon – Project Management
+- Rosely Mohammad - Documentation
