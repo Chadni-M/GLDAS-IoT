@@ -91,5 +91,5 @@ void loop() {
     Firebase.RTDB.setInt(&fbdo, "GLDAS/SensorValue", sensorValue);
   }
 
-  delay(1000);
+  delay(100);
 }
